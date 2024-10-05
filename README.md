@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Chayut Wanitchyobon</h1>
-<h3 align="center">Beginer back-end developer</h3>
+<h3 align="center">Beginner back-end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
